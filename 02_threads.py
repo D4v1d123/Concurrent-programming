@@ -19,7 +19,7 @@
 # START => Method that allows you to start the execution of a thread or task in the
 # background.
 
-# JOIN => Method that suspends a thread until the execution of another specific thread 
+# join => Method that suspends a thread until the execution of another specific thread 
 # finishes to continue the execution of the program. It is used to synchronize the 
 # execution of threads in a predefined order to avoid unexpected results.
 
