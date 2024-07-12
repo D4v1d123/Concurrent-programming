@@ -16,7 +16,7 @@
 # resumes to continue executing the task.
 # * TERMINATED => Thread terminated, eliminating its execution context.
 
-# START => Method that allows you to start the execution of a thread or task in the
+# start => Method that allows you to start the execution of a thread or task in the
 # background.
 
 # join => Method that suspends a thread until the execution of another specific thread 
