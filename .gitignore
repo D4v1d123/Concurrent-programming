@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Desktop.ini
+Thumbs.db
+
+# Virtual environment
+venv/
+
+# Cache directory
+__pycache__/
