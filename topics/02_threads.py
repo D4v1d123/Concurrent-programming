@@ -71,4 +71,3 @@ thread_2.join()
 thread_3.join()
 
 print("\nPurchase made successfully!!!")
-

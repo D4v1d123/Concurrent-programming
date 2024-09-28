@@ -57,4 +57,3 @@ task3.join()
 end = time()
 
 print(f"EXECUTION TIME WITH CONCURRENCY: {end - start} seconds.")
-
