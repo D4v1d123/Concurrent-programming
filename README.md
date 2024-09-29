@@ -1,4 +1,4 @@
-<img alt="Windows logo" src="./img/title.png"></img>
+<img alt="Concurrent programming course" src="./img/title.png"></img>
 
 This project explains the fundamentals of concurrent programming through concise theory, applied in practical exercises to reinforce the acquired knowledge.
 
